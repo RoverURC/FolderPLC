@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="Ares_URC_PLC_V13" typeText="Type" messageText="Message" timeText="Time">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/12/2014 11:23:36 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Upgrade started" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/12/2014 11:23:36 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Reading information from previous project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/12/2014 11:23:46 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/12/2014 11:23:55 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/12/2014 11:23:56 AM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/12/2014 11:24:07 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/12/2014 11:24:18 AM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Converting watch table 'ModbusTCP'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 0 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 1 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 2 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 3 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 4 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 5 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 6 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 7 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 8 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 9 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 10 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 11 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 12 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 13 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 14 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 15 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 16 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 17 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 18 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 19 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 20 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 21 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 22 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 23 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 24 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 25 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 26 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 27 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 28 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 29 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 30 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 31 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 32 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 33 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 34 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 35 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 36 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 37 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 38 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 39 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 40 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 41 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 42 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 43 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 44 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 45 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 46 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 47 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 48 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 49 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 50 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 51 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 52 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 53 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 54 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 55 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 56 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 57 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 58 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 59 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 60 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 61 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 62 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 63 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 64 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 65 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 66 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 67 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 68 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 69 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 70 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 71 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 72 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 73 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 74 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 75 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 76 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 77 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 78 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 79 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 80 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 81 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 82 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 83 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 84 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 85 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 86 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 87 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 88 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 89 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 90 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 91 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 92 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 93 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 94 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 95 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 96 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 97 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 98 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusTCP', line 99 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Converting watch table 'ModbusRTU'." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 0 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 1 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:29 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 1 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 2 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 2 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 3 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 3 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 4 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 4 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 5 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 5 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 6 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 6 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 7 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 7 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 8 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 8 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 9 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 9 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 10 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:30 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The definition of a symbol in watch table 'ModbusRTU', line 10 was changed." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/12/2014 11:24:30 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/12/2014 11:24:30 AM" Debug="false">
+    <Text>Preparing conversion of the S7 program for CPU "PLC_1"</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/12/2014 11:24:30 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/12/2014 11:24:30 AM" Debug="false">
+    <Text>Converting S7 program for CPU "PLC_1".</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="5/12/2014 11:24:33 AM" Debug="false">
+    <Text>Conversion completed.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Warning" Timestamp="5/12/2014 11:24:33 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="To finish upgrade of the project, select the menu command &quot;Edit &gt; Compile&quot; for each device in the project." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/12/2014 11:24:56 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="5/12/2014 11:24:56 AM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Saving the upgraded project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="5/12/2014 11:24:58 AM">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Project 'Ares_URC_PLC' was successfully upgraded and saved as project 'Ares_URC_PLC_V13'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>
